@@ -36,7 +36,7 @@ Each frame of the video will processed with individually; therefore, the code is
 
 
 
-### Some of the draw backs of the approach
+### Some of the drawbacks of the approach
 
 1. The initial parameters and threshold of this pipeline should be tuned carefully, and may fail to process all kinds of vides.
 
